@@ -1,6 +1,6 @@
 # trinity-java-estagio
 
-Desafio Estágio Java Trinity Soluções
+# Desafio Estágio Java Trinity Soluções
 
 Crie uma aplicação que deverá provê uma API REST para Manutenção de Clientes. O contrato desta API está definido no arquivo Postman contido neste repositório. A aplicação será testada utizando este projeto Postman como cliente.
 
