@@ -12,6 +12,3 @@ Pré-requisitos:
 - Utilizar banco de dados MySQL;
 - Servidor Tomcat;
 - Java 7+.
-
-Prazo: 
-- 4 dias.
